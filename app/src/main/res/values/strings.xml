@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UTS_D1041161024</string>
+    <string name="home">Home</string>
+    <string name="kelas">Class</string>
+    <string name="methods">Methods</string>
+    <string name="relation">Relation</string>
+    <string name="contruction">Contruction</string>
+    <string name="operator">Operator</string>
+    <string name="service">Service</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="kelas_adalah">Kelas adalah....</string>
+    <string name="name">Name</string>
+    <string name="kelas_merupakan_balabalabal">kelas merupakan balabalabal</string>
+    <string name="method_adalah">Method adalah ......</string>
+    <string name="textview">TextView</string>
+</resources>

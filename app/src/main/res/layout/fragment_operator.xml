@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Operator">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="
+            OPERATOR \n
+        Operator dalam pemrograman digunakan untuk melakukan operasi tertentu.
+
+Misalkan kita ingin menjumlahkan nilai dari variabel x dan y, maka kita bisa menggunakan operator penjumlahan (+).
+\n\n
+        Ada enam jenis kelompok operator dalam pemrograman Java:\n
+        Operator Artimatika;\n
+1. Operator Penugasan;\n
+2. Operator Pembanding;\n
+3. Operator Logika;\n
+4. Operator Bitwise;\n
+5. Operator Ternary.\n
+
+        "/>
+</FrameLayout>

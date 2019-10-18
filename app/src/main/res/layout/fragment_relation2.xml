@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Relation">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="
+            RELATION \n
+        Relasi aggregation artinya mengumpulkan atau mengelompokkan beberapa benda menjadi satu.
+         Misalnya Mahasiswa mengambil beberapa MataKuliah dalam satu semester. Atau Karyawan
+         tergabung dalam satu Divisi atau Departemen dalam perusahaan. Karakteristik utama
+         aggregation adalah masing-masing benda tersebut bisa berdiri sendiri. Artinya,
+         walaupun tidak tergabung dalam Divisi manapun, objek Karyawan tetap ada dalam sistem.
+         Demikian juga walaupun tidak ada Karyawan dalam Divisi tertentu, datanya tetap ada dalam sistem.\n
+         Dengan demikian, siklus hidup objek yang tergabung dalam relasi aggregation tidak saling mempengaruhi.
+          Kita bisa menghapus salah satu Mahasiswa tanpa mempengaruhi MataKuliah. Demikian juga sebaliknya,
+           kita bisa menghapus MataKuliah tertentu, sedangkan data Mahasiswa tetap ada.\n
+
+Dalam notasi UML, relasi aggregation ini ditulis dengan belah ketupat berwarna putih.
+Dalam desain database, relasi aggregation ini disebut juga dengan istilah non identifying relationship.
+
+        "/>
+
+</FrameLayout>

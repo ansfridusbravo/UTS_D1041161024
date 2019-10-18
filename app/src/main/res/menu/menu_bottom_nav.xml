@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/nav_kelas"
+        android:icon="@drawable/ic_class_black_24dp"
+        android:title="@string/kelas" />
+    <item
+        android:id="@+id/nav_method"
+        android:icon="@drawable/ic_book_black_24dp"
+        android:title="@string/methods" />
+    <item
+        android:id="@+id/nav_relation"
+        android:icon="@drawable/ic_camera_front_black_24dp"
+        android:title="@string/relation" />
+    <item
+        android:id="@+id/nav_operator"
+        android:icon="@drawable/ic_select_all_black_24dp"
+        android:title="@string/operator" />
+
+
+</menu>

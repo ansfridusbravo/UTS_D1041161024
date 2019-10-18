@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Method">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="
+            METHOD \n
+        Method pada Java adalah kumpulan pernyataan yang dikelompokkan bersama-sama untuk melakukan
+         operasi, misalnya ketika kita memanggil System.out.println() method maka sistem akan
+         mengeksekusi satu atau lebih pernyataan untuk menampilkan pesan pada konsol.\n\n
+        struktur pembuatan method\n
+        \n
+        public static int methodName(int a, int b) \n{\n
+  // body\n
+}
+        "/>
+
+</FrameLayout>
